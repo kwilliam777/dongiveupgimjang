@@ -1,1 +1,10 @@
 streamlit
+pandas
+seaborn
+matplotlib.pyplot
+sklearn.model_selection
+sklearn.neighbors
+sklearn.metrics
+os
+chardet
+matplotlib
